@@ -39,7 +39,7 @@ No installation required – just download and run.
 
 ☕ Support the Project
 If you found this tool useful and would like to support its development, consider buying me a coffee:
-👉 [LINK](coff.ee/henry_9)
+👉 [LINK](https://coff.ee/henry_9)
 
 Thank you! ❤️
 
