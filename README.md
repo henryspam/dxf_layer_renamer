@@ -32,6 +32,10 @@ A small desktop tool with a graphical interface (GUI) to batch rename all layers
 - 📝 Generates a `.txt` log file listing all renamed layers
 
 ---
+EXECUTABLE FILE 
+[LINK TO EXE](https://drive.google.com/file/d/1wVS19Bb9M8xsE76RAlHKbhMAp5W9s1Of/view?usp=drive_link)
+
+
 
 ## 🖥️ Requirements
 
