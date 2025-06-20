@@ -32,10 +32,16 @@ A small desktop tool with a graphical interface (GUI) to batch rename all layers
 - 📝 Generates a `.txt` log file listing all renamed layers
 
 ---
-EXECUTABLE FILE 
-[LINK TO EXE](https://drive.google.com/file/d/1wVS19Bb9M8xsE76RAlHKbhMAp5W9s1Of/view?usp=drive_link)
+## 🪄 Executable File
 
+👉 **[Download converti_nomi_layer_dxf_gui.exe](https://drive.google.com/file/d/1wVS19Bb9M8xsE76RAlHKbhMAp5W9s1Of/view?usp=drive_link)**  
+No installation required – just download and run.
 
+☕ Support the Project
+If you found this tool useful and would like to support its development, consider buying me a coffee:
+👉 [LINK](coff.ee/henry_9)
+
+Thank you! ❤️
 
 ## 🖥️ Requirements
 
